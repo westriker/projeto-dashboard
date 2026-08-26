@@ -1,0 +1,7 @@
+id_pedido,cliente,data_envio,data_entrega_prevista,data_entrega_real,status,custo_frete,cidade_destino,avaria
+PED-001,Mercado Sul,2026-08-01,2026-08-05,2026-08-04,Entregue,150.50,Rio de Janeiro,Nao
+PED-002,Loja Alfa,2026-08-01,2026-08-04,2026-08-06,Entregue,89.00,Niterói,Sim
+PED-003,Tech Brasil,2026-08-02,2026-08-06,,Em Trânsito,210.00,São Gonçalo,Nao
+PED-004,Mercado Sul,2026-08-03,2026-08-07,2026-08-07,Entregue,120.00,Rio de Janeiro,Nao
+PED-005,Varejo Express,2026-08-03,2026-08-05,2026-08-08,Entregue,310.00,Duque de Caxias,Nao
+PED-006,Loja Alfa,2026-08-04,2026-08-08,,Cancelado,0.00,Niterói,Nao

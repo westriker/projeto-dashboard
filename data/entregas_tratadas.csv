@@ -1,0 +1,6 @@
+id_pedido,cliente,data_envio,data_entrega_prevista,data_entrega_real,status,custo_frete,cidade_destino,avaria,atrasado,dias_entrega
+PED-001,Mercado Sul,2026-08-01,2026-08-05,2026-08-04,Entregue,150.5,Rio de Janeiro,Nao,0,3.0
+PED-002,Loja Alfa,2026-08-01,2026-08-04,2026-08-06,Entregue,89.0,Niterói,Sim,1,5.0
+PED-003,Tech Brasil,2026-08-02,2026-08-06,,Em Trânsito,210.0,São Gonçalo,Nao,0,
+PED-004,Mercado Sul,2026-08-03,2026-08-07,2026-08-07,Entregue,120.0,Rio de Janeiro,Nao,0,4.0
+PED-005,Varejo Express,2026-08-03,2026-08-05,2026-08-08,Entregue,310.0,Duque de Caxias,Nao,1,5.0

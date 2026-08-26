@@ -1,0 +1,28 @@
+```text
+# Python / Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Power BI Auto-Save / Backup files
+*.pbix.ghost
+*.pbit
+
+# System Files / OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Code Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
